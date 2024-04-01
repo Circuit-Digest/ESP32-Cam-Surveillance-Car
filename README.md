@@ -6,9 +6,9 @@
 <a href="https://circuitdigest.com/tags/ESP32"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=ESP32 Tutorials Circuit Digest&color=%230076D6&style=social&logo=google-chrome&logoColor=%230076D6" alt="circuitdigest"/></a>
 <be>
 
-[SP32 Cam Surveillance Car]()
+[ESP32 Cam Surveillance Car](https://circuitdigest.com/microcontroller-projects/esp32-cam-surveillance-car)
 
-[POV Display full Yoututbe Video]()
+[Watch full video on ESP32 surveillance car](https://youtu.be/W6qm61QcYmw)
 
 
 [<h1>Click here](https://circuitdigest.com/tags/ESP32) For other ESP32 tutorials.</h1>
